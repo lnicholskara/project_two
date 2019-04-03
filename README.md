@@ -35,9 +35,15 @@ It would be nice to have a forum where bootcamp students can ask specific questi
 
 ## Features
 
-
-## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+- Create user account
+- Write new post
+- Make comments on posts
+- Edit your account
+- Edit your post
+- Delete your post
+- View all posts
+- View just your posts
+- View your network
 
 ## Installation
 
