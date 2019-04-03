@@ -1,7 +1,7 @@
 # BOOTCAMPER
 A centralized hub to help current bootcamp students connect with bootcamp graduates, instructors, and professionals to share issues, ideas and experiences.
 
-[!Go to site](https://limitless-springs-55622.herokuapp.com/)
+[Visit site!](https://limitless-springs-55622.herokuapp.com/)
 
 ## Motivation
 As bootcamp students, we are overloaded with information on the web regarding all the new technology and programming languages that we are learning.
